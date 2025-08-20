@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+<style>
+.property-flex {
+  display: flex;
+  gap: 2em;
+  align-items: flex-start;
+  margin-bottom: 2em;
+}
+.property-flex > .feature-image,
+.property-flex > .property-map {
+  flex: 1 1 0;
+  max-width: 50%;
+}
+.property-flex img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.property-flex iframe {
+  width: 100%;
+  min-height: 300px;
+  border: 0;
+}
+@media (max-width: 700px) {
+  .property-flex {
+    flex-direction: column;
+    gap: 1em;
+  }
+  .property-flex > .feature-image,
+  .property-flex > .property-map {
+    max-width: 100%;
+  }
+}
+</style>
+
+<h1>{{ page.title }}</h1>
+
+<div class="property-flex">
+  {% if page.feature_image %}
+    <div class="feature-image">
+      <img src="{{ page.feature_image }}" alt="{{ page.title }} feature image">
+    </div>
+  {% endif %}
+  {% if page.gps %}
+    {% assign coords = page.gps | split: ',' %}
+    <div class="property-map">
+      <iframe
+        height="300"
+        src="https://www.google.com/maps?q={{ coords[0] | strip }},{{ coords[1] | strip }}&hl=es&z=14&maptype=satellite&output=embed"
+        allowfullscreen>
+      </iframe>
+    </div>
+  {% endif %}
+</div>
+
+{{ content }}

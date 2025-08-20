@@ -1,0 +1,11 @@
+---
+layout: page
+title: "William Campbell's Book: Northeastern Georgian Bay and its People"
+---
+<ul>
+    {% for page in site.book %}
+    <li>
+        <a href="{{page.url}}">{{ page.title }}</a>
+    </li>
+    {% endfor %}
+</ul>

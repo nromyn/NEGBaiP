@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Oral Histories"
+---
+
+<ul>
+    {% for item in site.history %}
+    <li>
+        <a href="{{ item.url }}">{{ item.title }}</a>
+    </li>
+    {% endfor %}
+</ul>

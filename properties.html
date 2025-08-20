@@ -1,0 +1,13 @@
+---
+layout: page
+title: "Properties"
+---
+<ul>
+    {% assign sorted_properties = site.properties | sort: "map_number" %}
+
+    {% for property in sorted_properties %}
+    <li>
+        <a href="{{property.url}}">{{ property.title }}</a>
+    </li>
+    {% endfor %}
+</ul>
