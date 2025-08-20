@@ -3,7 +3,7 @@ layout: post
 title:  "The Edmund Fitzgerald!"
 date:   2022-10-11 00:00:19 -0400
 categories: reminisence
-feature_image: /images/Edmund Fitzgerald.jpg
+feature_image: /images/edmund-fitzgerald.jpg
 ---
 
 [Rick Stout, November 10 2022 in Facebook group "Boating Georgian Bay"]( https://www.facebook.com/groups/196143790755836/?multi_permalinks=1728964307473769&hoisted_section_header_type=recently_seen&__cft__[0]=AZUBiGPSf-66EuWhJBCg-T8fDLhUkdvQTFgTYnC51CcCugX0dZzt7IBTt9LTvBQhBNmWi-mVwhZFY73I_Eo3DovoMcUe3Ypaeek21l0BpayAP-Ym8D-kfHE3sm0INyhfMy-SQx2LK_KPkM4yPQ6R3ehrVT5hsSH2WNEGvd9WWb64aKEJpMDOjN3rNmaLfHcYRek&__tn__=%2CO%2CP-R) posted the following:
