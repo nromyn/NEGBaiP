@@ -38,7 +38,7 @@ collections:
     output: true
     permalink: /properties/:path/
     title: "Properties"
-  history:
+  oralhistory:
     output: true
     permalink: /oralhistory/:path/
     title: "Oral History"
