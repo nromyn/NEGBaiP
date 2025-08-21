@@ -3,9 +3,6 @@ layout: page
 title:  "The French River"
 author: By Robert Boudignon
 ---
-# The French River  
-*By Robert Boudignon*
-
 Although the Indigenous peoples who roamed Ontario several hundred years ago no doubt had a name for the waterway that led them to and from Georgian Bay, it was not until Champlain travelled the river in 1615 that it became known to Europeans and was given the name *la rivière des Français*.  
 
 After Champlain’s discovery of this waterway to the West, there followed in his steps, between 1629 and 1649, the many Récollet and Jesuit Fathers who went to live amongst the Huron-Wendat. Fathers Brébeuf and Lalemant were two of the Martyrs of Fort Ste. Marie, who met their deaths at the hands of the Haudenosaunee (Iroquois), deadly enemies of the French and their Huron-Wendat allies. At this time, the Haudenosaunee controlled most of the lands surrounding the lower Great Lakes.  
