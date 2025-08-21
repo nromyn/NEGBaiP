@@ -22,4 +22,4 @@ But “our little corner of heaven” (a favourite) boasts still another beauty:
 
 Naturally.
 
-{% assign target = site.properties | where: "map_number", 16 | first %}Bob Rosser - {% if target %}<a href="{{ target.url }}">#16</a>{% else %}#16{% endif%}
+{% assign target = site.properties | where: "map_number", 16 | first %}Bob Rosser - {% if target %}<a href="{{site.baseurl}}{{ target.url }}">#16</a>{% else %}#16{% endif%}
