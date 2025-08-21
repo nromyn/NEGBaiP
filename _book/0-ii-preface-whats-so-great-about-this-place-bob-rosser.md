@@ -12,7 +12,7 @@ Ask Northeastern Georgian Bay fans why they are hooked, and you’ll get as many
 
 > “…like those exaggerated postcards. You know, where the colours are printed too strong to be real.”
 
-“God created beauty. His masterpiece is Georgian Bay”
+> “God created beauty. His masterpiece is Georgian Bay”
 
 I can’t tell you who said which. Well, one I can – my wife said the one about postcard colour.
 
