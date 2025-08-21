@@ -41,7 +41,7 @@ layout: default
 <div class="property-flex">
   {% if page.feature_image %}
     <div class="feature-image">
-      <img src="{{ page.feature_image }}" alt="Photo of property {{ page.title }}">
+      <img src="{{ site.baseurl }{{ page.feature_image }}" alt="Photo of property {{ page.title }}">
     </div>
   {% endif %}
   {% if page.gps %}
