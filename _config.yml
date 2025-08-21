@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Northeastern Georgian Bay and its Peoples is a project of the
   Key River Area Association (KRAA) to rejuvenate William Campbell's original book, and document the history,
   culture, and environment of the region.
-# baseurl: "/NEGBaiP" # the subpath of your site, e.g. /blog
+baseurl: "/NEGBaiP" # the subpath of your site, e.g. /blog
 url: "https://nromyn.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
