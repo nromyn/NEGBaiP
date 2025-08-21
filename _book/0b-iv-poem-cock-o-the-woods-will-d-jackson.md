@@ -5,7 +5,6 @@ author: Will D. Jackson
 ---
 An original poem by Will D Jackson, Dept. Scaler, Hearst, addressed to a pileated woodpecker (Dryocopus pileatus) in a Northern Ontario forest.
 
-# Cock O’ the Woods
 O, Cock o’ the Woods, you’re a likeable chap
 A gentleman o’ the tall timber,
 With your tux’ an’ white shirt, your bright scarlet cap;
