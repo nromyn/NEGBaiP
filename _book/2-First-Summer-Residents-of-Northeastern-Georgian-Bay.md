@@ -3,8 +3,6 @@ layout: page
 title:  "First Summer Residents of North-Eastern Georgian Bay  "
 author: 
 ---
-# First Summer Residents of North-Eastern Georgian Bay  
-
 The earliest known visitors to the area were the Paleo-Indigenous peoples, sometime between 10,000 and 7,000 B.C. A workshop, quarry, and habitation site has been excavated at George Lake near Killarney, and dated between 7,000 and 6,000 B.C. Here, quartzite tools and weapons were produced. Not much is known about these early peoples, but they likely fished and hunted along the north shore of Georgian Bay.  
 
 They were followed by Early Woodland peoples, who left traces in the same area dated to around 225 B.C. The Early Historic period, between 1640 and 1760 A.D., saw Algonquian-speaking peoples living in the region: the Anishinaabe (Chippewa and Ojibwe) to the north-west of the French River, and the Odawa to the south. The Odawa were renowned travellers and traders, often moving through wide territories. The Ojibwe were somewhat more settled, and hunted, fished, and cultivated crops closer to home. Their diet included fish, venison, beaver, bear, moose, raccoons, berries, maize, and squash.  
