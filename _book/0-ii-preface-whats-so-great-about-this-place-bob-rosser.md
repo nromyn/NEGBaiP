@@ -6,12 +6,16 @@ author: Bob Rosser
 # What’s So Great About This Place?
 
 Ask Northeastern Georgian Bay fans why they are hooked, and you’ll get as many answers as asks. Here are some that stick in my memory:
-    “Savage and serene”
-    “If you don’t like the weather, wait five minutes”
-    “…like those exaggerated postcards. You know, where the colours are printed too strong to be real.”
-    “God created beauty. His masterpiece is Georgian Bay”
+> “Savage and serene”
+
+> “If you don’t like the weather, wait five minutes”
+
+> “…like those exaggerated postcards. You know, where the colours are printed too strong to be real.”
+
+“God created beauty. His masterpiece is Georgian Bay”
 
 I can’t tell you who said which. Well, one I can – my wife said the one about postcard colour.
+
 Most attempts to explain the region’s mystique, center around its powerful, unpredictable, natural beauty. Every turn of the head presents a different visual delight.
 
 Water so blue you think you could dip a pen in it. Sparkling quartz and golden lichen on pink granite. Twisted, wind-tortured pines trailing long limbs leeward. And so clean! Even the carrion gulls are the world’s whitest.
