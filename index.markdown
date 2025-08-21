@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function() {
   var data = JSON.parse(document.getElementById('random-content-data').textContent);
   if (data.length > 0) {
     var randomItem = data[Math.floor(Math.random() * data.length)];
-    var html = '<h2><a href="' + {{ site.baseurl }} + randomItem.url + '">' + randomItem.title + '</a></h2>';
+    var html = '<h2><a href="' + '"' + {{ site.baseurl }} +'"' + randomItem.url + '">' + randomItem.title + '</a></h2>';
     html += '<div>' + randomItem.content + '</div>';
     document.getElementById('random-content').innerHTML = html;
   }
