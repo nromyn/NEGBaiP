@@ -3,6 +3,8 @@ layout: post
 title:  "Cock O’ the Woods"
 author: Will D. Jackson
 ---
+An original poem by Will D Jackson, Dept. Scaler, Hearst, addressed to a pileated woodpecker (Dryocopus pileatus) in a Northern Ontario forest.
+
 # Cock O’ the Woods
 O, Cock o’ the Woods, you’re a likeable chap
 A gentleman o’ the tall timber,
@@ -32,4 +34,3 @@ Perched high in a Heavenly hemlock tree,
 A-whackin His brains out ofr insect foods
 Will be you, my old friend, the Cock o’ the Woods
 
-An original poem by Will D Jackson, Dept. Scaler, Hearst, addressed to a pileated woodpecker (Dryocopus pileatus) in a Northern Ontario forest.
