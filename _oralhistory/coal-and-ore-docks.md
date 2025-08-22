@@ -1,3 +1,4 @@
+---
 layout: page
 title:  Coal and Ore Docks
 author: Susan McKay
