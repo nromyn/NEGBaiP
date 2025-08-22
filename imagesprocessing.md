@@ -9,36 +9,56 @@ pip install Pillow pytesseract pillow_heif
 
 
 ```python
-# Re-import necessary libraries
+import os
 from PIL import Image
 import pytesseract
-import pillow_heif # Import the HEIF plugin
-from pillow_heif import register_heif_opener # Import the registration function
+from pillow_heif import register_heif_opener
 
-# Register the HEIF opener so Pillow can handle .heic files
+# Register the HEIF opener to allow Pillow to process HEIC files
 register_heif_opener()
 
-# Define the image paths (assuming actual .heic files)
-# Make sure these paths point to your actual HEIC files on your system.
-image_paths = [
-    "/mnt/data/IMG_4255 2023-10-17 12_40_38.heic",
-    "/mnt/data/IMG_4254 2023-10-17 12_40_37.heic",
-    "/mnt/data/IMG_4253 2023-10-17 12_40_37.heic"
-]
+def perform_ocr_on_folder(folder_path):
+    """
+    Performs OCR on all HEIC files in a given folder and saves the
+    extracted text to a Markdown file with the same name.
+    """
+    if not os.path.isdir(folder_path):
+        print(f"Error: The provided path '{folder_path}' is not a valid directory.")
+        return
 
-# Run OCR and collect results
-ocr_results = {}
-for path in image_paths:
-    try:
-        # Image.open will now handle .heic files due to the registration
-        img = Image.open(path)
-        text = pytesseract.image_to_string(img)
-        ocr_results[path] = text
-        print(f"OCR successful for {path}")
-    except Exception as e:
-        print(f"Error processing {path}: {e}")
+    # Iterate through all files in the specified folder
+    for filename in os.listdir(folder_path):
+        # Check if the file has a .heic extension
+        if filename.lower().endswith('.heic'):
+            input_file_path = os.path.join(folder_path, filename)
 
-print("\n--- OCR Results ---")
-for path, text in ocr_results.items():
-    print(f"File: {path}\nContent:\n{text}\n{'-'*30}")
+            # Define the output Markdown file path
+            # Replaces the '.heic' extension with '.md'
+            output_filename = os.path.splitext(filename)[0] + '.md'
+            output_file_path = os.path.join(folder_path, output_filename)
+
+            print(f"Processing '{input_file_path}'...")
+            
+            try:
+                # Open the HEIC image and perform OCR
+                img = Image.open(input_file_path)
+                text = pytesseract.image_to_string(img)
+
+                # Write the extracted text to the new Markdown file
+                with open(output_file_path, 'w', encoding='utf-8') as f:
+                    # Optional: Add a title to the Markdown file
+                    f.write(f"# OCR Result for {filename}\n\n")
+                    f.write(text)
+
+                print(f"Successfully saved OCR output to '{output_file_path}'")
+
+            except Exception as e:
+                print(f"Error processing '{input_file_path}': {e}")
+                
+# --- Script Execution ---
+if __name__ == "__main__":
+    # Specify the folder containing your HEIC files here
+    # Example: folder_path = "/Users/yourusername/Documents/photos"
+    folder_path = "/mnt/data/"
+    perform_ocr_on_folder(folder_path)
 ```
