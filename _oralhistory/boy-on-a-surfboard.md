@@ -1,3 +1,4 @@
+---
 layout: page
 title:  Boy on a Surfboard
 categories: reminiscence
