@@ -41,7 +41,7 @@ layout: default
 <div class="property-flex">
   {% if page.feature_image %}
     <div class="feature-image">
-      <img src="{{ page.feature_image }}" alt="{{ page.title }} feature image">
+      <img src="{{ site.baseurl }}{{ page.feature_image }}" alt="Photo of property {{ page.title }}">
     </div>
   {% endif %}
   {% if page.gps %}
@@ -49,7 +49,7 @@ layout: default
     <div class="property-map">
       <iframe
         height="300"
-        src="https://www.google.com/maps?q={{ coords[0] | strip }},{{ coords[1] | strip }}&hl=es&z=14&maptype=satellite&output=embed"
+        src="https://www.google.com/maps?q={{ coords[0] | strip }},{{ coords[1] | strip }}&hl=es&z=14&maptype=satellite&output=embed&language=en-ca"
         allowfullscreen>
       </iframe>
     </div>

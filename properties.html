@@ -7,7 +7,7 @@ title: "Properties"
 
     {% for property in sorted_properties %}
     <li>
-        <a href="{{property.url}}">{{ property.title }}</a>
+        <a href="{{ site.baseurl }}{{property.url}}">{{ property.title }}</a>
     </li>
     {% endfor %}
 </ul>
