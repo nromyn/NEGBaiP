@@ -10,7 +10,7 @@ author: Jim McIntosh
 
 John, eldest son of Peter McIntosh, married Georgina (née Shaw). They moved from Collingwood to French River Mouth to live there in 1902. John captained one of the tugs on the upper river for the French River Boom and Raft Company. He soon became manager of the company and he held this position until it closed down in 1921, at which time he bought the company and ran it until 1929.
 
-John and Georgina raised their family on the McIntosh homestead located on the east shore of Macdougal Bay, south of Wabbtown, in the town plan of Coponaning. They had five boys and two girls: Reginald, Douglas, Webster (Jim), Robert (Pat), Elsie, and Gean.
+John and Georgina raised their family on the McIntosh homestead located on the east shore of Macdougal Bay, south of Wabbtown, in the town plan of Coponaning. They had five boys and two girls: Reginald, Douglas, Webster (Jim), Robert (Pat), Elsie, and Gean. Elsie died at 1, and is buried in Britt. 
 
 When John became manager of the boom company, his brother Peter took over as captain of the tug Evelyn. His brothers Ben and Bill both worked in the lumber industry. The lumber company built an office and living quarters on a floating log raft above the Dalles Rapids.
 
@@ -32,4 +32,6 @@ In 1931 John and his five sons built a sawmill on the east shore of Macdougal Ba
 
 ## Later Years
 
-John McIntosh died in 1945 and Mrs. McIntosh in 1949. Three of their sons — Reg, Webster (Jim), and Robert (Pat) — spent most of their lives living and working at different occupations in the French River Mouth and Key River area.
+John McIntosh died in 1943 and Mrs. McIntosh in 1950. Three of their sons — Reg, Webster (Jim), and Robert (Pat) — spent most of their lives living and working at different occupations in the French River Mouth and Key River area.
+
+John and his wife are buried at St. Andrews and St. James Cemetery, Orillia.
