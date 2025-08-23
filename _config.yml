@@ -46,6 +46,10 @@ collections:
     output: true
     permalink: /:path/
     title: "William Campbell's book: Northeastern Georgian Bay and its Peoples"
+  people:
+    output: true
+    permalink: /people/:path/
+    title: "People of the area"
 # Include the "jekyll-seo-tag" plugin in your site.
 categories:
   - reminiscence
