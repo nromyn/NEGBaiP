@@ -1,13 +1,3 @@
-# Install Tesseract OCR
-https://tesseract-ocr.github.io/tessdoc/Downloads.html
-
-# Install pytesseract python wrapper and pillow_heif
-
-```python
-pip install Pillow pytesseract pillow_heif
-```
-
-```python
 import os
 from PIL import Image, ImageFilter
 import pytesseract
@@ -74,6 +64,6 @@ def perform_ocr_on_folder_advanced(folder_path):
                 
 # --- Script Execution ---
 if __name__ == "__main__":
-    folder_path = r"C:\Users\numpty\myFolder"
+    folder_path = r"C:\Users\nicho\OneDrive - Romyn's AAD\CampbellBook\Scans"
     perform_ocr_on_folder_advanced(folder_path)
-```
+# --- 
