@@ -2,6 +2,7 @@
 layout: page
 title:  "Dean Udy"
 location: "French River Village"
+departure: 1930
 ---
 Dean Udy, who served variously as storekeeper, magistrate, and game warden when required, ran the Ontario Lumber Company store. After the company closed, he continued to operate the store and post office until 1922. He was well known in the area. Dean and his wife had a daughter, Alberta, and a son, Bert.  
 
