@@ -5,6 +5,7 @@ location: "French River Mouth"
 arrived: 1902
 departed: 1949
 author: Jim McIntosh
+---
 
 ## John McIntosh and Family
 
