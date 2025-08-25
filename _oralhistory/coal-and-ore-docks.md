@@ -60,10 +60,10 @@ The first ore was loaded at Key Harbour in the year 1909 and the last ore was du
 
 The freight rates that were in existence in 1914 on iron ore shipments from Sellwood, Ontario, rather interesting to note and were as follows:
 
-To Sault Ste. Marie – all rail: $1.60
-To Parry Sound – all rail: $1.00
-To Deseronto – all rail: $1.55
-To Key Harbour - including loading into boats to Canadian Ports: $0.65
+- To Sault Ste. Marie – all rail: $1.60
+- To Parry Sound – all rail: $1.00
+- To Deseronto – all rail: $1.55
+- To Key Harbour - including loading into boats to Canadian Ports: $0.65
 
 The lake freight rate from Key Harbour and Lake Erie ports in 1914 was 40 cents and in 1914 it was 35 cents.
 
