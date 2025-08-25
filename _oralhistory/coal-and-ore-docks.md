@@ -56,15 +56,15 @@ The Key Harbour ore dock consisted of earth fill and a pile trestle extending ou
 
 The first ore was loaded at Key Harbour in the year 1909 and the last ore was dumped into vessels in the year 1916 when 2 small cargoes, carried over from the previous year, were loaded for Deseronto. The ore that was handled over the Key Harbour ore dock originated at the Moose Mountain Mine about 80 miles north of the Harbour. The mine was located at the village of Sellwood, in Hutton Township of Ontario which is about 35 miles north of Sudbury, the nearest important centre. At the Moose Mountain Mine, much time and money was spent in an unsuccessful attempt to produce a high grade commercial product (including iron briquettes) from the lean siliceous magnetite of the iron formation. A branch of the Canadian Northern Ontario Railway from Toronto to Sudbury was built from Sudbury north to the mine at Sellwood, a distance of 35 miles. Another six-mile spur off the main line, from a few miles south of the French River, at a point called Key Junction, was constructed to the Key Harbour ore dock. This made rail haul for the ore moving down from the mine to the dock about 80 miles—about the same as the average haul of the iron ore carrying roads in Minnesota. The Key Harbour shipping point was sometimes nearer to the iron ore receiving ports than the head of Lake Superior.
 
----
+# Freight Rates
 
 The freight rates that were in existence in 1914 on iron ore shipments from Sellwood, Ontario, rather interesting to note and were as follows:
+
 |---|
 |To Sault Ste. Marie – all rail|$1.60|
 |To Parry Sound – all rail|$1.00|
 |To Deseronto – all rail|$1.55|
 |To Key Harbour - including loading into boats to Canadian Ports |$0.65|
-|---|
 
 The lake freight rate from Key Harbour and Lake Erie ports in 1914 was 40 cents and in 1914 it was 35 cents.
 
