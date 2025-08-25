@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Boy on a Surfboard
+title:  Moose Bay Lodge Promotional Pamphlet
 author: Susan McKay
 ---
 *From the Spring 2005 edition of the KRAA newsletter.*
